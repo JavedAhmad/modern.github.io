@@ -1,2 +1,2 @@
-# modern.github.io
+http://javedahmad.github.io/modern.github.io
 mywebpages
